@@ -1,4 +1,4 @@
-![inkathon Devtooling Banner](inkathon-devtooling-banner.png)
+ ![inkathon Devtooling Banner](inkathon-devtooling-banner.png)
 
 # ink!athon Boilerplate
 
